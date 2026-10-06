@@ -39,8 +39,6 @@ A Python desktop utility for extracting selected PDF pages and exporting them as
 ### 🧪 Prediction
 A repository is present, but it currently has no README or files describing a project. *(Private; details to add)*
 
-### 🗂️ trial
-A repository is present, but its profile listing has no project description. *(Private; details to add)*
 
 ## Field kit
 
