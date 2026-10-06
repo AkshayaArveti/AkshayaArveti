@@ -1,40 +1,36 @@
 <div align="center">
 
+![A field researcher scans a leaf on a desert world](desert-field-banner.png)
+
 # AKSHAYA ARVETI
 
-### I make software for problems that don't look alike.
+### Software experiments from the edge of the map.
 
-`🌿 computer vision` &nbsp; `🏫 useful tools` &nbsp; `🎨 code as a canvas`
+`🌿 computer vision` &nbsp; `🏫 civic tech` &nbsp; `🎨 creative code`
 
 </div>
 
 ---
 
-> **FIELD NOTE 001 — BUILDING ACROSS THE UNEXPECTED**  
-> one day: teaching a small model to read leaf patterns  
-> another: giving campus issues a path from report → resolution  
-> sometimes: making Python draw with color, motion, and characters  
->  
-> common thread: make an idea tangible, then improve it by using it.
+> **FIELD LOG / 001**  
+> New terrain, new problem. I like making ideas tangible, testing them in the real world, and following the signal when they surprise me.
 
-## Selected work
+## Expeditions
 
 ### 🌱 Verdant Leaf Health
-A leaf-photo screening prototype built with Python, PyTorch, and MobileNetV3-Small, wrapped in a Flask scanner and a browser-side plant journal. Its output is a broad healthy-or-diseased estimate: a prompt to look closer, not a diagnosis.
+A plant-photo screening prototype using Python, PyTorch, and MobileNetV3-Small, with a Flask scanner and a browser-side plant journal. It offers a broad healthy-or-diseased estimate to prompt a closer look; it is not a plant diagnosis.
 
 ### 🏫 Civic Reporting System
-A Flask app for campus reports, with a student submission flow and an admin dashboard for status updates and team assignments.
+A Flask app that gives campus reports a route from student submission to admin review and team assignment.
 
 → [Explore Civic Reporting System](https://github.com/AkshayaArveti/Civic-Reporting-System)
 
-## The workbench
+## Field kit
 
 `Python` · `PyTorch` · `Flask` · `JavaScript` · `HTML/CSS`
 
-I like projects that cross the line from “interesting idea” to something people can click, test, question, and make better.
-
 <div align="center">
 
-`CURRENT STATUS: STILL EXPERIMENTING` &nbsp; ✳ &nbsp; `NEXT: MAKE IT MORE USEFUL`
+`SIGNAL: CURIOUS` &nbsp; ✳ &nbsp; `MISSION: BUILD SOMETHING USEFUL`
 
 </div>
